@@ -1,0 +1,1 @@
+exports.WORKSPACE_PATH = "";
